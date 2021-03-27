@@ -1,2 +1,3 @@
 # Blade-deflection-calculation
-static deflection 
+#Python Code for computing blade moment edge-wise and flap-wise using the beam theory.
+
